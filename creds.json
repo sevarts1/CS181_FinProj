@@ -1,0 +1,10 @@
+{
+    "instagram": {
+        "appid": "85caf1b7a9d446a8a5eafdad65119ae9", 
+        "appsecret": "5c5724c87415467aa7ad591b010d32b1", 
+        "redirect_uri": "https://google.com",
+        "code": "dbe7e1ab54b046a39de7fd3b52823e07",
+        "state": "good2go",
+        "mytoken": ""
+    }
+}
